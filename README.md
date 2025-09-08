@@ -21,7 +21,7 @@ Hi, I'm **Mattia**, a part-time **Software developer** and full-time student @ U
 <br>
 
 ## 🧠 Skills
-<br>
+
 ### Languages
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" style="display:block;margin:0 auto;" />
