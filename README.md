@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm **Mattia**, a passionate **Software developer** based in **Bologna**.
+Hi, I'm **Mattia**, a part-time **Software developer** and full-time student @ University of bologna.
 
 ## 📬 Contact
 <div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
@@ -17,13 +17,12 @@ Hi, I'm **Mattia**, a passionate **Software developer** based in **Bologna**.
       <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="20" height="20" />
       <a href="https://github.com/mattialodi0/mattialodi0">GitHub</a>
     </span>
-
 </div>
+<br>
 
 ## 🧠 Skills
-
+<br>
 ### Languages
-
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" style="display:block;margin:0 auto;" />
 <!--   <span style="font-size:11px;display:block;margin-top:4px;">JavaScript</span> -->
@@ -46,7 +45,6 @@ Hi, I'm **Mattia**, a passionate **Software developer** based in **Bologna**.
 </span>
 
 ### Frontend
-
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/react" width="32" height="32" style="display:block;margin:0 auto;" />
 <!--   <span style="font-size:11px;display:block;margin-top:4px;">React</span> -->
@@ -57,7 +55,6 @@ Hi, I'm **Mattia**, a passionate **Software developer** based in **Bologna**.
 </span>
 
 ### Backend
-
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/nodedotjs" width="32" height="32" style="display:block;margin:0 auto;" />
 <!--   <span style="font-size:11px;display:block;margin-top:4px;">Node.js</span> -->
@@ -72,7 +69,6 @@ Hi, I'm **Mattia**, a passionate **Software developer** based in **Bologna**.
 </span>
 
 ### Databases
-
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/mongodb" width="32" height="32" style="display:block;margin:0 auto;" />
 <!--   <span style="font-size:11px;display:block;margin-top:4px;">MongoDB</span> -->
@@ -91,7 +87,6 @@ Hi, I'm **Mattia**, a passionate **Software developer** based in **Bologna**.
 </span>
 
 ### DevOps & Tools
-
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/docker" width="32" height="32" style="display:block;margin:0 auto;" />
 <!--   <span style="font-size:11px;display:block;margin-top:4px;">Docker</span> -->
@@ -104,6 +99,7 @@ Hi, I'm **Mattia**, a passionate **Software developer** based in **Bologna**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" style="display:block;margin:0 auto;" />
 <!--   <span style="font-size:11px;display:block;margin-top:4px;">AWS</span> -->
 </span>
+<hr>
 
 <!--
 ## 📁 Projects
@@ -126,3 +122,10 @@ Hi, I'm **Mattia**, a passionate **Software developer** based in **Bologna**.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mattialodi0&theme=flat)
 -->
+
+## 📊 GitHub Stats
+<br>
+<div align=center>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
+<hr>
