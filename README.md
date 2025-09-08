@@ -127,8 +127,8 @@ Hi, I'm **Mattia**, a part-time **Software developer** and full-time student @ U
 <br>
 <div align=center>
 <!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mattialodi0&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="mattialodi0's GitHub Stats" /> -->
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mattialodi0&theme=transparent&count_private=true&border_radius=10&locale=en" alt="mattialodi0's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=mattialodi0&theme=transparent&layout=compact&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="mattialodi0's Most Used Languages" />
+  <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=mattialodi0&theme=transparent&count_private=true&border_radius=10&locale=en" alt="mattialodi0's" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=mattialodi0&theme=transparent&layout=compact&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="mattialodi0's Most Used Languages" />
 
 </div>
 <hr>
